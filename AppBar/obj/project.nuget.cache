@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "C2wMUqhlCcQ6LcrpMVBwBdpM+PJ5k3TMbRKqq2CDL2PqxQdMzX2jPsUDcQ7tTXXfbPysx/5+XhLbk9hWyqXjfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\justs\\Desktop\\AppBar\\AppBar\\AppBar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\justs\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\justs\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\justs\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\justs\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
